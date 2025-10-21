@@ -9,10 +9,12 @@ This project involves cleaning, analyzing, and visualizing sales data from the "
 
 Here is the final dashboard in action. The slicers filter all charts simultaneously.
 
-![Dashboard Demo GIF](dashboard-in-action.gif)
+![Dashboard Demo GIF](![dashboard-in-action gif](https://github.com/user-attachments/assets/f4a512fc-2fbb-4702-b63b-ffc4817d5627)
+)
 
 *(This is a static screenshot if you don't have a GIF)*
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](<img width="1919" height="1011" alt="dashboard" src="https://github.com/user-attachments/assets/7ab0a3e1-23cf-4203-ad15-3535ceddcc7b" />
+)
 
 ---
 
